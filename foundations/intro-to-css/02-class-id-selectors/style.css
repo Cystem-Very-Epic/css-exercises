@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd-numbers {
+    background-color: rgb(250, 120, 120);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.extra-pro {
+    font-size: 24px;
+}
+
+#noob-id-two {
+    color: hsl(230, 100%, 50%);
+    font-size: 24px;
+}
+
+/* I got green easier but I spent a bit longer to find a better looking thing and 00f000 looks clean */
+#ultra-mega-pro-id-four {
+    background-color: #00f000;
+    font-weight: bold;
+}
